@@ -7,7 +7,7 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 <body>
-    <div class="bg-slate-200 border border-black w-hull p-4 m-4">
+    <div class="bg-slate-300 border border-black w-hull p-4 m-4">
     @yield('content')
     </div>
 
